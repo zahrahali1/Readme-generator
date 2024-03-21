@@ -1,8 +1,36 @@
-# Readme-generator
 
-## Description 
-I've created an application using Node.js to generate a professional README.md file. This application prompts the user for input about their project, including details like the project title, description, installation instructions, usage information, contribution guidelines, test instructions, chosen license, GitHub username, and email address. 
+# Readme Generator
 
-Walkthrough Video:
+![License](https://img.shields.io/badge/license-Apache-2.0-blue.svg)
 
-https://drive.google.com/file/d/1mByxFaXCprismM5EnVItp7sFBDPEGUaG/view
+## Description
+Description
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+
+* [License](#license)
+
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+Installation
+
+## Usage
+Tests
+
+## License
+
+This project is licensed under the Apache-2.0 license.
+
+## Contributing
+Contribution
+
+## Tests
+Instructions
+
+## Questions
+For questions or concerns, please contact zahrahali1 via [GitHub](https://github.com/zahrahali1) or email at zahrahali2000@hotmail.com.
